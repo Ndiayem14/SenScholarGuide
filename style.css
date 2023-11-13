@@ -96,26 +96,48 @@ margin-right: 600px;
 #About h3 {
   color:#1B2F4B;
   font-size:50px;
-  margin-bottom:px; /* Adjust the bottom margin */
+  margin-top:20px; /* Adjust the bottom margin */
 }
 
 #About p {
   font-size:20px;
   color:#1B2F4B;
   max-width:700px; /* Max width for the paragraph */
-  margin-top:30px; /* Auto margins for horizontal centering */
+  margin-top:20px; /* Auto margins for horizontal centering */
 }
 #About blockquote {
 color:#1B2F4B;
   text-align: center;
   font-style:italic;
   font-size:20px;
-  margin-bottom:20px;
   /* Additional styling */
 }
 
 #About img{
 width:800;
 height:300px;
+margin-top:20px;
 border-radius:10px;
 }
+#Insights{
+background-color: #1B2F4B;
+  font-size: 50px;
+  display: flex; /* Use flexbox */
+  flex-direction: column; /* Stack items vertically */
+  align-items: center; /* Center align items horizontally */
+  justify-content: center; /* Center items vertically */
+  text-align: center; /* Center-align the text */
+  height: 100vh; /* Adjust the height as needed */
+  padding: 20px;
+}
+#Insights h4{
+  color:#daa520;
+  font-size:50px;
+  margin-bottom:500px;}
+  
+#Insights blockquote {
+  color:#daa520;
+    text-align: center;
+    font-style:italic;
+    font-size:20px;
+  }
