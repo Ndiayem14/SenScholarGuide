@@ -1,1 +1,2 @@
 # SenScholarGuide
+SenScholarGuide is a dynamic platform dedicated to empowering Senegalese students aspiring to study abroad. "Sen" meaning 'ours' in the local language, embodies the spirit of community and support. This website provides comprehensive resources for scholarships, guidance on international education opportunities, and a wealth of information tailored to help Senegalese students navigate the complexities of studying overseas. It is a one-stop solution for accessing global education opportunities and fostering academic success.
